@@ -12,9 +12,9 @@ def banner():
  ##     ## ##   ##   ##  ##   ### ##    ##  
  ##     ## ##    ## #### ##    ##  ######
 (!)========================================
-(!) Author   : IMTIAZ AKING
+(!) Author   : IRFAN_AKING
 (!) Guthub   : AKING110
-(!) Facebook : IMTIAZ.AKING.07
+(!) Facebook : IRFAN.AKING.07
 (!) Type     : FREE
 \033[1;37m(!)========================================""")
 def Update():
